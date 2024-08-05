@@ -23,10 +23,10 @@ const Home = () => {
       <div id="home" className="home-container">
         <div className="left-section">
           <h1 className='heading1'>Hello  <img style={{width:"50px",height:"50px"}} src="https://media.tenor.com/yWSRmymbuBkAAAAC/waving-hi.gif" alt="animation hello" />,</h1>
-          <h1 className='heading2'>I'am Khushboo</h1>
+          <h1 className='heading2'>I'm Khushboo</h1>
           <h1 className='heading3'>Full-Stack Developer</h1>
           <p className='home-para'>Creative thinker to achieve modern business requirements using technical
-            solutions. Ability to develop production-ready code using HTML, CSS, JavaScript, Node.js, React,
+            solutions. Ability to develop production-ready code using HTML, CSS, JavaScript, Node.js, React,Redux,Tailwind
             MongoDB,Mongo Atlas,and Express.js  with expressive user experience.
           </p>
           <button className="resume-button" onClick={downloadResume}> Resume</button>
